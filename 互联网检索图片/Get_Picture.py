@@ -3,9 +3,7 @@ import os
 import time
 from urllib.parse import quote
 
-# Google Custom Search API 相关配置
-API_KEY = 'AIzaSyDaFv9yogP4EINJtXXfar1MEmzqb9YvOjM'  # 替换为你的Google API Key
-CX = '93139cc93b2a84586'  # 替换为你的Custom Search Engine ID
+
 
 # 创建保存图片的基础文件夹
 base_dir = 'instrument_images'
